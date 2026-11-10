@@ -118,6 +118,4 @@ X: [https://x.com/charisma1385/status/2120188136206868566]
 
 ---
 
-#Cybersecurity #AgenticAI #AIGovernance
-
 **#AIGovernance #AgenticAI #Cybersecurity #ECCouncil #AI #CyberTalks**
