@@ -112,10 +112,10 @@ I received an EC-Council CyberTalks Certificate of Participation for attending t
 
 ---
 
-LinkedIn: []
+LinkedIn: [https://www.linkedin.com/feed/update/urn:li:activity:7525956736180989953/]
 
 X: [https://x.com/charisma1385/status/2120188136206868566]
 
 ---
 
-**#AIGovernance #AgenticAI #Cybersecurity #ECCouncil #AI #CyberTalks**
+**#ECCouncil #CyberTalks #AIGovernance #AgenticAI #Cybersecurity #ArtificialIntelligence #ResponsibleAI #ContinuousLearning**
